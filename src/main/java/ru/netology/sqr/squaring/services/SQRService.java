@@ -3,17 +3,17 @@ package ru.netology.sqr.squaring.services;
 import java.sql.SQLOutput;
 
 public class SQRService {
-    public long calculate(long amount, boolean registered) {
-        int range = 10;
-        int min = 200;
-        int max = 300;
-        int sqrScore=0;
-        while (range<100) {
-        if (range * range >= min && range * range <= max) {
-           sqrScore = sqrScore +1;
+
+    public int calc(int min, int max) {
+        int counter = 0;
+        for (int i = 10; i <= 99; i++) {
+            int iSquere = i * i;
+            if (iSquere >= min) {
+                if (iSquere <= max) {
+                    counter++;
+                }
+            }
         }
-        range = range +1;
-        }
-        return amount;
+        return counter;
     }
 }
