@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/squaring/services/SQRService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/sqr/squaring/services/SQRService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/squaring/services/SQRServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/sqr/squaring/services/SQRServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
